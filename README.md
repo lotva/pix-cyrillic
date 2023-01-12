@@ -9,7 +9,7 @@
 
 В шрифт встроена стилизованная буква «а», как в игре [A Short Hike](https://ashorthike.com). Доступна как альтернативный символ: `font-feature-settings: 'cv01';`
 
-И в отдельном файле: `PixCyrillic-AShortHikeEdition.ttf`
+Стилизованная «а» включена по умолчанию в файле `PixCyrillic-AShortHikeEdition.ttf`. В этой редакции все линии толщиной один пиксель. Скачивайте её, если вам важно попасть в пиксельную сетку.
 
 ![Превью на русском](preview/russian.png)
 ![Превью на украинском и белорусском](preview/ukrainian-belarusian.png)
